@@ -29,11 +29,11 @@ const regiao = {
 
 };
 const conteudo = {
- 'joias': '0',
- 'livros': '1',
- 'eletronicos': '3',
- 'bebidas': '5',
- 'brinquedos': '8',
+    'joias': '0',
+    'livros': '1',
+    'eletronicos': '3',
+    'bebidas': '5',
+    'brinquedos': '8',
 
 };
 // vendedor
@@ -49,12 +49,12 @@ const vendedor = {
 var vendedorBloqueado = ['367'];
 
 var pacoteVendedor1 = [];
-   var pacoteVendedor2 = []; 
-   var pacoteVendedor3 = []; 
-   var pacoteVendedor4 = []; 
-   var pacoteVendedor5 = [];    
-   var pacoteVendedor6 = []; 
-   var pacoteVendedor7 = []; 
+var pacoteVendedor2 = []; 
+var pacoteVendedor3 = []; 
+var pacoteVendedor4 = []; 
+var pacoteVendedor5 = [];    
+var pacoteVendedor6 = []; 
+var pacoteVendedor7 = []; 
 
 // origem
 var origemSul = [];
